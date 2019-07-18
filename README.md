@@ -1,5 +1,8 @@
 # SleepingIndicator
 
+![alt text](https://github.com/MarkChew/SleepingIndicator/blob/master/SleepingIndicator1.PNG)
+
+
 Mark Chew <mcth80@gmail.com>
 Wed, Jul 17, 11:53 AM (23 hours ago)
 to me
