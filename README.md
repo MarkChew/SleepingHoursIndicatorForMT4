@@ -1,8 +1,9 @@
 # SleepingIndicator
 
-![](https://github.com/MarkChew/SleepingIndicator/blob/master/SleepingIndicator1.PNG)  {:height="100px" width="100px"}
+<img src="https://github.com/MarkChew/SleepingIndicator/blob/master/SleepingIndicator1.PNG"  height="300">
 
 <img src="https://github.com/MarkChew/SleepingIndicator/blob/master/SleepingIndicator2.PNG"  height="300">
+<img src="https://github.com/MarkChew/SleepingIndicator/blob/master/SleepingIndicator3.PNG"  height="300">
 
 The aim of this indicator is to highlight which are your SLEEPING HOURS if you are a manual trader. 
 
