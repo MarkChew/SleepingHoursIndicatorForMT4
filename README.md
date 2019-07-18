@@ -1,11 +1,9 @@
 # SleepingIndicator
 
-![alt text](https://github.com/MarkChew/SleepingIndicator/blob/master/SleepingIndicator1.PNG)
+![alt text](https://github.com/MarkChew/SleepingIndicator/blob/master/SleepingIndicator1.PNG =250x250)
 
 
-Mark Chew <mcth80@gmail.com>
-Wed, Jul 17, 11:53 AM (23 hours ago)
-to me
+
 
 The aim of this indicator is to highlight which are your SLEEPING HOURS if you are a manual trader. 
 
