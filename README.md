@@ -5,9 +5,12 @@
 <img src="https://github.com/MarkChew/SleepingIndicator/blob/master/SleepingIndicator2.PNG"  width="600" height="300">
 <img src="https://github.com/MarkChew/SleepingIndicator/blob/master/SleepingIndicator3.png"  width="600" height="300">
 
-The aim of this indicator is to highlight which are your SLEEPING HOURS if you are a manual trader. 
+
 
 When we create potential trading template files in the MT4 and if you are a manual trader ..... you might over estimate which signals you are able to take. 
+
+The aim of this indicator is to highlight which are your SLEEPING HOURS if you are a manual trader. 
+
 
 With this indicator that I have wrote , manual traders are able to see which candles are highlighted in the sleeping hours.
 
