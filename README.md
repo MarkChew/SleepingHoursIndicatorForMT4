@@ -1,6 +1,6 @@
 # SleepingIndicator
 
-![](https://github.com/MarkChew/SleepingIndicator/blob/master/SleepingIndicator1.PNG)  {:height="300px" width="400px"}
+![](https://github.com/MarkChew/SleepingIndicator/blob/master/SleepingIndicator1.PNG)  {:height="100px" width="100px"}
 
 
 
