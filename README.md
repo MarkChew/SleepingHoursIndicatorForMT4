@@ -1,6 +1,6 @@
 # SleepingIndicator
 
-![alt text](https://github.com/MarkChew/SleepingIndicator/blob/master/SleepingIndicator1.PNG =250x250)
+![alt text](https://github.com/MarkChew/SleepingIndicator/blob/master/SleepingIndicator1.PNG | width=250)
 
 
 
